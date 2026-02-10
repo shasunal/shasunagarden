@@ -30,9 +30,9 @@ body {
 }
 html {
 
-	overflow: hidden;
-	height: 100vh;
 	
+	height: 100vh;
+	overflow: hidden;
 	background-color: rgb(79, 157, 180);
 	background-image: url("/flowergrow.gif");
 	background-repeat: repeat;
@@ -312,10 +312,16 @@ header {
 }
 
 .bio-container{
+	
 	display: flex;;
 	align-items: flex-start;
 	margin: 0rem 0rem 0rem 2rem ;
 		/* background: rgb(255, 255, 255,0.4); */
+}
+.images-section{
+	display: flex;
+	flex-wrap: wrap;
+
 }
 
 .about-me{
@@ -331,6 +337,7 @@ header {
 	list-style: none;
 	padding: 0;
 	margin: 0;
+
 }
 
 
@@ -343,6 +350,7 @@ header {
 .social-links a{
 	color: white;
 	text-decoration: none;
+	
 }
 
 a:visited {
@@ -351,7 +359,57 @@ a:visited {
 a:hover{
 	color:#ffedf6;
 }
+.section-wrapper{
+		margin-left: 2rem;
+	
+	border: rgb(43, 54, 139) solid 2px	;
+	background: rgb(255, 255, 255,0.4);
+}
 
+.images-section{
+	align-items: center;
+	justify-content: center;
+	display: flex;
+	flex-wrap: wrap;
+	padding:0.5rem;
+	margin: 0.5rem;
+	background: rgb(255, 255, 255,0.4);
+
+}
+
+.section1{
+	
+	background-image: url("/catfrog.jpg");
+	background-repeat: no-repeat;
+	background-size: contain;
+	width: 100px;
+	
+	height: 200px;
+	flex: 0 0 40%! important;
+	
+	background-position: center;
+}
+
+.section2{
+	
+	background-image: url("/cattoad.jpg");
+	background-repeat: no-repeat;
+	background-size:contain;
+	width: 100px;
+	height: 200px;
+	flex: 0 0 40%! important;
+	
+	background-position: center;
+}
+
+.pet-names{
+	text-align: center;
+	font-size: 1.5rem;
+	font-weight: bold;
+	color: white;
+	flex-basis: 100%;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
 .whole-container{
 	/* border:rgb(227, 89, 139) solid 2px; */
 	display: flex;
