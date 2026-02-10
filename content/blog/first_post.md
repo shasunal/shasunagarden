@@ -1,14 +1,15 @@
 ---
-title: My First Blog
+title: Project 1
 description: submission for in class 2
-date: 2026-02-04
+date: 2026-09-04
 ---
 <!-- 11ty syntax above this comment
 always goes on top of each .md file -->
 
-# Heading with 1 hashtag
-Can also write plain text
+For my first project, I made a blog website using 11ty. I wanted to have a dynamic background so I started with creating the pixel art gif background. I tried many different styles that would animate well in a grid and I landed on the flower. I made layout on Figma with the design I had in mind.  I built my website’s theme around the background. I went for contrasting colors blue and pink. Some designs like the logo and “Latest Posts” were made in Adobe Illustrator to make use of their nice fonts. On the left side of the screen there is my short introduction about myself and a list of my social media links. On the right side of the screen is my blog posts. I wanted everything to exist on one page so I put the about and posts pages together. 
 
-<img src = "https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_16x9.jpg?w=1200">
+<br>
 
-hellohellohello
+https://github.com/shasunal/shasunagarden
+<br>
+https://shasunal.github.io/shasunagarden/

@@ -16,29 +16,50 @@
 		{#- Add the heading-anchors web component to the JavaScript bundle #}
 		<script type="module">{% include "node_modules/@zachleat/heading-anchors/heading-anchors.js" %}</script>
 	</head>
-	<body>
+
+	<body >
 		<a href="#main" id="skip-link" class="visually-hidden">Skip to main content</a>
 
-		<header>
-			<a href="/" class="home-link">{{ metadata.title }}</a>
+<div class = "whole-container"> 
+<div class = "left-container">
 
-			{#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
-			<nav>
-				<h2 class="visually-hidden">Top level navigation menu</h2>
-				<ul class="nav">
-				{%- for entry in collections.all | eleventyNavigation %}
-					<li class="nav-item"><a href="{{ entry.url }}"{% if entry.url == page.url %} aria-current="page"{% endif %}>{{ entry.title }}</a></li>
-				{%- endfor %}
-				</ul>
-			</nav>
-		</header>
+			<header>
+				
+				<div class = "name">
+					<a href = "/"> </a>
+				</div>	
+			</header>
+	<div class = "bio-container">
+		<div class ="about-me">
+		<p>Welcome to my blog! I am currently a student enrolled at Hunter College studying Emerging Media. <br>
+		I am a multimedia artist and an aspiring front-end web developer. <br>
+		Some of my current interests include: interactive art, AR experiences, 3D art, crocheting, and reading.
+		
+		
+		</p>
+		</div>
+		<div class = "social-links">
+			<ul>
+			<li><a href = "https://www.linkedin.com/in/shasunalin/" target = "_blank" > Linkedin</a></li>
+			<li><a href = "https://www.instagram.com/shasuna_/" target = "_blank" > Instagram</a></li>
+			<li><a href = "https://www.tumblr.com/blog/shasunal" target = "_blank" > Tumblr</a></li>
+			<li><a href = "https://bsky.app/profile/shasuna.bsky.social" target = "_blank" > Bluesky</a></li>
+			<li><a href = "https://www.are.na/shasuna-lin/channels" target = "_blank" > Are.na</a></li>
+			</ul>
+		</div>
 
+	</div>
+
+	</div>
+
+	<div class = "right-container">
 		<main id="main">
 			<heading-anchors>
 				{{ content | safe }}
 			</heading-anchors>
 		</main>
-
+		</div>
+</div>
 		<footer>
 			<p>
 				<em>Built with <a href="https://www.11ty.dev/">{{ eleventy.generator }}</a></em>
