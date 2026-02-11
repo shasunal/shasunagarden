@@ -13,3 +13,6 @@ For my first project, I made a blog website using 11ty. I wanted to have a dynam
 https://github.com/shasunal/shasunagarden
 <br>
 https://shasunal.github.io/shasunagarden/
+
+<br>
+https://www.figma.com/design/kOwiF2RvC58nMii58wo7jl/Untitled?node-id=0-1&t=r4gEFY7xflW8hiRF-1
