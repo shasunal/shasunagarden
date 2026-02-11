@@ -34,7 +34,7 @@ html {
 	height: 100vh;
 	overflow: hidden;
 	background-color: rgb(79, 157, 180);
-	background-image: url("/flowergrow.gif");
+	background-image: url("https://github.com/shasunal/images/blob/main/flowergrow.gif?raw=true");
 	background-repeat: repeat;
 	background-size: 60px 60px;
 
