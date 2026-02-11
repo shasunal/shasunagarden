@@ -49,7 +49,7 @@ body {
 	justify-content: center;
 	width: 100%;
 	height:300px;
-	background-image: url("/namelogo2.png");
+	background-image: url("https://github.com/shasunal/images/blob/main/namelogo2.png?raw=true");
 	background-repeat: no-repeat;
 	background-size: contain;
 	background-position: center;
@@ -384,7 +384,7 @@ align-items: center;
 
 .section1{
 	
-	background-image: url("/catfrog.jpg");
+	background-image: url("https://github.com/shasunal/images/blob/main/catfrog.jpg?raw=true");
 	background-repeat: no-repeat;
 	background-size: contain;
 	width: 100px;
@@ -397,7 +397,7 @@ align-items: center;
 
 .section2{
 	
-	background-image: url("/cattoad.jpg");
+	background-image: url("https://github.com/shasunal/images/blob/main/cattoad.jpg?raw=true");
 	background-repeat: no-repeat;
 	background-size:contain;
 	width: 100px;
@@ -449,7 +449,7 @@ align-items: center;
 
 
 .latest-title{
-	background-image: url("/post3.png");
+	background-image: url("https://github.com/shasunal/images/blob/main/post3.png?raw=true");
 	background-repeat: no-repeat;
 	background-size: contain;
 	background-position: center;
@@ -458,21 +458,48 @@ align-items: center;
 	width: 100%;
 	height:80px;
 }
-/* Message Box */
-.message-box {
-	--color-message-box: #ffc;
+/*
+ * New diff- syntax
+ */
 
+pre[class*="language-diff-"] {
+	--eleventy-code-padding: 1.25em;
+	padding-left: var(--eleventy-code-padding);
+	padding-right: var(--eleventy-code-padding);
+}
+.token.deleted {
+	background-color: hsl(0, 51%, 37%);
+	color: inherit;
+}
+.token.inserted {
+	background-color: hsl(126, 31%, 39%);
+	color: inherit;
+}
+
+/* Make the + and - characters unselectable for copy/paste */
+.token.prefix.unchanged,
+.token.prefix.inserted,
+.token.prefix.deleted {
+	-webkit-user-select: none;
+	user-select: none;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+.token.prefix.inserted,
+.token.prefix.deleted {
+	width: var(--eleventy-code-padding);
+	background-color: rgba(0,0,0,.2);
+}
+
+/* Optional: full-width background color */
+.token.inserted:not(.prefix),
+.token.deleted:not(.prefix) {
 	display: block;
-	background-color: var(--color-message-box);
-	color: var(--color-gray-90);
-	padding: 1em 0.625em; /* 16px 10px /16 */
-}
-.message-box ol {
-	margin-top: 0;
-}
-
-@media (prefers-color-scheme: dark) {
-	.message-box {
-		--color-message-box: #082840;
-	}
+	margin-left: calc(-1 * var(--eleventy-code-padding));
+	margin-right: calc(-1 * var(--eleventy-code-padding));
+	text-decoration: none; /* override del, ins, mark defaults */
+	color: inherit; /* override del, ins, mark defaults */
 }
