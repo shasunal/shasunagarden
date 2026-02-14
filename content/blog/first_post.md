@@ -1,7 +1,7 @@
 ---
 title: Project 1
 description: submission for in class 2
-date: 2026-09-04
+date: 2026-02-04
 ---
 <!-- 11ty syntax above this comment
 always goes on top of each .md file -->
