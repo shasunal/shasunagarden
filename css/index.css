@@ -459,3 +459,11 @@ align-items: center;
 	height:80px;
 }
 
+.portfolio-link{
+	color: white;
+}
+
+
+.portfolio-wrapper{
+	border: red 2px solid;
+}
