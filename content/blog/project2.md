@@ -12,4 +12,4 @@ I will be handling the structure and layout of the website with html/css. I will
 
 <a href = "https://judyzhang05.github.io/web-design-blog/blog/project2/">Judy's Blog Post</a>
 <br>
-<a href = "">Kylah's Blog Post</a>
+<a href = "https://reahky23.github.io/reahky23-web-projects-blog/">Kylah's Blog Post</a>
