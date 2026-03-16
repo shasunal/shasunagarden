@@ -1,7 +1,7 @@
 ---
-title: Readings 2
-description: My response for readings 2
-date: 2026-02-27
+title: Readings 3
+description: My response for readings 3
+date: 2026-03-16
 tags: [""]
 ---
 
