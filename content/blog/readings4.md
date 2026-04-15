@@ -1,0 +1,20 @@
+---
+title: Readings 4
+description: My response for readings 4
+date: 2026-04-15
+tags: [""]
+---
+
+<u>Another Network is Possible</u>
+<br>
+This article talks about the Indymedia website and its purpose was to provide an alternative perspective on media rather than corporate media. Their philosophy of techno-libertarianism was to create a future where the people could create their own rules about cyberspace, away from the government. I thought this movement was sort of a reiteration of the old internet where it was the original ‘free’ place for ideas but now become more of a marketplace for corporations. A key feature of Idymedia was that anyone can post any sort of content which is very similar to the social media we have now except that is it unmoderated. So few spaces are on the internet goes unmoderated especially on social media sometimes for a good reason. The main focus of Idymedia was a form of tactile media which is made to support political movements. I appreciate that this site is dedicated to political movements because oftentimes organizing on social media sites are mixed into all sorts of irrelevant content. We need this website back 
+<br>
+<u>Architecting Emergence </u>
+<br>
+The article begins by speaking about how live has become so monotonous due to the integration of technology in our lives. Algorithms, AI, and smart devices predict the future by using patterns from the past. And nothing new is being created. What we watch and consume is predetermined and that makes living feel constrained. I found the artwork Cadavre Exquis interesting how the images appeared stacked. I looked into it and it was a collaborative artwork game where several artists drew on a folded paper without seeing the previous work. I remember playing that game a few times in my childhood and coming up with funny and unique drawings. Collaborating and sharing ideas together definitely helps with originality. The article talks about the distinction between system and world. The world is not a system. The world is unpredictable while systems is structured and predictable. My dream is to escape these technological and political systems and live in the real world on a ranch somewhere.
+<br>
+<u>The woman who taught internet strangers to actually care for one another</u>
+<br>
+This article is about Stacy Horn founded an online community called Bulletin Board System(BBS) also called Echo. It was a small subscription based social network with a lot of female members. Conversations were moderated. It seems that Stacy really cared for her little online space and ensured safety. The article suggests empowering small communities instead of expanding forever like the popular social media platforms we have present. I agree that this should be a more available resource for those looking for small communities. A way that it’s already present is on big platforms like Facebook or Reddit that helps create smaller groups for like-minded individuals. I guess that is easier than coding a whole site. I agree there should be tools for people to create their own spaces without having greedy companies overseeing it all.  
+ 
+
