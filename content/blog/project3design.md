@@ -1,6 +1,6 @@
 ---
-title: Readings 1
-description: the history of cables
+title: Project 3 Concept
+description: Project 3 concept
 date: 2026-04-22
 tags: [""]
 ---
