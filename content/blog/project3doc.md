@@ -31,7 +31,7 @@ When we looked for references and images online we mostly used words connected t
 <br>
 <a href = "https://drive.google.com/file/d/1pl3q_01WQZuUvJlcIjreTDuDyFL3Fbx8/view?usp=sharing">Video Demo</a>
 <br>
-<a href = "https://docs.google.com/document/d/1aZi2pKwdt_nI5V0ACvpAXCNoK8JgsB8bSiOLQOixAkE/edit?usp=drivesdk">Outside Resources</a>
+<a href = "https://docs.google.com/document/d/1Nw4WcD29IOSOk6BI7uAJ4f4DdsOMvaqlKboF75C5L8c/edit?tab=t.0">Outside Resources</a>
 
 
 <br>
@@ -54,6 +54,6 @@ One last thing we changed was the background of the canvas itself. At first the 
 I worked on the front-end of our website including finding and editing images, creating the canvas background for the Heaven and Hell pages, and css/html. I used Pixabay to source my images and Photoshop for editing. 
 
 <br>
-<a href = "">Scott</a>
+<a href = "https://legenddoros.github.io/web-design-blog-legend/final.html">Scott</a>
 <a href = "">Daniel</a>
 <a href = "">Werner</a>
