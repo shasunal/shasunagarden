@@ -4,6 +4,8 @@ description: Project 3 Documentation
 date: 2026-05-19
 tags: [""]
 ---
+<a href="http://157.245.213.253:3000/">Live Link</a>
+<br><br>
 
 <u>Introduction</u>
 <strong>Utopia </strong> is a collaborative and interactive website made up of three pages: a home intro page, a Heaven page, and a Hell page. Visitors can drag and drop images and fridge magnet style words onto a shared canvas to build their own vision of either a perfect world or a terrible one. The two pages each has its own themed landscape with empty spaces that people fill in with drawings, text, or visual compositions. What is placed cannot be deleted (unless you know the secret word). Audio can be toggled for a more immersive experience while you patch together your artwork. The site updates live and multiple users can create together in real time. Utopia is a constantly changing collective artwork website shaped by everyone’s ideas of utopia and its darker counterpart. 
