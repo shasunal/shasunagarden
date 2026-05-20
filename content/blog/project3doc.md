@@ -22,12 +22,15 @@ Originally we were going for more of a pixel art aesthetic as shown in our figma
 When we looked for references and images online we mostly used words connected to the mood of each page. For the Heaven page, we searched things like “heaven" “nature” “beauty” because we wanted peaceful imagery. For the Hell page, we used keywords like “hell” “darkness” “evil” to find things that feel unsettling. Many of the keywords just came from thinking about the emotions and atmosphere we wanted each world to have.
 
 <br>
-<u>Figma and Video Demo </u>
+<u>Figma, Video, Outside Resources </u>
 <br>
 
 <a href ="https://www.figma.com/design/RylgUb43PS4ibS0j85oNb8/Project3?node-id=13-5&t=J5xZyB9sMzDYkIiV-1">Figma</a>
 <br>
 <a href = "https://drive.google.com/file/d/1pl3q_01WQZuUvJlcIjreTDuDyFL3Fbx8/view?usp=sharing">Video Demo</a>
+<br>
+<a href = "https://docs.google.com/document/d/1aZi2pKwdt_nI5V0ACvpAXCNoK8JgsB8bSiOLQOixAkE/edit?usp=drivesdk">Outside Resources</a>
+
 
 <br>
 
