@@ -5,12 +5,12 @@ date: 2026-05-19
 tags: [""]
 ---
 <a href="http://157.245.213.253:3000/">Live Link</a>
-<br><br>
+<br>
 
 <u>Introduction</u>
 <strong>Utopia </strong> is a collaborative and interactive website made up of three pages: a home intro page, a Heaven page, and a Hell page. Visitors can drag and drop images and fridge magnet style words onto a shared canvas to build their own vision of either a perfect world or a terrible one. The two pages each has its own themed landscape with empty spaces that people fill in with drawings, text, or visual compositions. What is placed cannot be deleted (unless you know the secret word). Audio can be toggled for a more immersive experience while you patch together your artwork. The site updates live and multiple users can create together in real time. Utopia is a constantly changing collective artwork website shaped by everyone’s ideas of utopia and its darker counterpart. 
 
-<br><br>
+<br>
 
 <u>Our Inspiration</u>
 For inspiration, we looked at projects like <a href ="https://tilde.town/~kc/blackout/">Blackout </a> and <a href ="https://www.reddit.com/r/place/">r/place</a>. Blackout inspired the text part of our project because users can reveal or hide words to create new meanings and poems. It gave us the idea for the fridge magnet style drag-and-drop text where people can move words around freely on the canvas. We also took inspiration from r/place because of its collaborative and constantly changing nature(Until it ended). We liked the idea of a shared space where many people can contribute at once and shape the environment together over time.
@@ -19,14 +19,14 @@ Originally we were going for more of a pixel art aesthetic as shown in our figma
 <br>
 When we looked for references and images online we mostly used words connected to the mood of each page. For the Heaven page, we searched things like “heaven" “nature” “beauty” because we wanted peaceful imagery. For the Hell page, we used keywords like “hell” “darkness” “evil” to find things that feel unsettling. Many of the keywords just came from thinking about the emotions and atmosphere we wanted each world to have.
 
-<br><br>
+<br>
 <u>Figma and Video Demo </u>
 
 <a href ="https://www.figma.com/design/RylgUb43PS4ibS0j85oNb8/Project3?node-id=13-5&t=J5xZyB9sMzDYkIiV-1">Figma</a>
 <br>
 <a href = "https://drive.google.com/file/d/1pl3q_01WQZuUvJlcIjreTDuDyFL3Fbx8/view?usp=sharing">Video Demo</a>
 
-<br><br>
+<br>
 
 <u>Technical Process</u>
 We first started by building rough layouts for each page using Nunjucks and CSS. Early on in the project we focused a lot on structure and figuring out how users would actually interact with the project. We were also gathering a database of images and words that people could interact with. 
