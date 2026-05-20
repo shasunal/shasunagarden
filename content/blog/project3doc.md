@@ -55,5 +55,5 @@ I worked on the front-end of our website including finding and editing images, c
 
 <br>
 <a href = "https://legenddoros.github.io/web-design-blog-legend/final.html">Scott</a>
-<a href = "">Daniel</a>
-<a href = "">Werner</a>
+<a href = "https://danielologunleko.github.io/webdesign-blog-1/blog/project_3_final/">Daniel</a>
+<a href = "https://werner1020p.github.io/web_design_projects_blogs/blog/project3-final/">Werner</a>
