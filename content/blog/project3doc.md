@@ -54,6 +54,8 @@ One last thing we changed was the background of the canvas itself. At first the 
 I worked on the front-end of our website including finding and editing images, creating the canvas background for the Heaven and Hell pages, and css/html. I used Pixabay to source my images and Photoshop for editing. 
 
 <br>
+<u>Group blog posts</u>
+<br>
 <a href = "https://legenddoros.github.io/web-design-blog-legend/final.html">Scott</a>
 <a href = "https://danielologunleko.github.io/webdesign-blog-1/blog/project_3_final/">Daniel</a>
 <a href = "https://werner1020p.github.io/web_design_projects_blogs/blog/project3-final/">Werner</a>
