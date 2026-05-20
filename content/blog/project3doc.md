@@ -6,7 +6,9 @@ tags: [""]
 ---
 <a href="http://157.245.213.253:3000/">Live Link</a>
 <br>
+<a href ="https://github.com/legenddoros/utopia-project-3">Github Repository</a>
 
+<br>
 <u>Introduction</u>
 <br>
 <strong>Utopia </strong> is a collaborative and interactive website made up of three pages: a home intro page, a Heaven page, and a Hell page. Visitors can drag and drop images and fridge magnet style words onto a shared canvas to build their own vision of either a perfect world or a terrible one. The two pages each has its own themed landscape with empty spaces that people fill in with drawings, text, or visual compositions. What is placed cannot be deleted (unless you know the secret word). Audio can be toggled for a more immersive experience while you patch together your artwork. The site updates live and multiple users can create together in real time. Utopia is a constantly changing collective artwork website shaped by everyone’s ideas of utopia and its darker counterpart. 
@@ -45,3 +47,12 @@ We also thought about whether the Heaven and Hell page should exist on the same 
 Another thing we talked about was whether people should be able to delete images freely. But we realized that could easily lead to people destroying other users work. So we added a hidden delete function that people can discover on their own *wink* which keeps some unpredictability without making the whole canvas a complete free for all.
 <br>
 One last thing we changed was the background of the canvas itself. At first the canvas was blank and it felt too empty and didn’t really push the themes of Heaven and Hell enough. So we created large scrollable landscape canvases for both pages. The landscapes have transparent holes and blank areas scattered throughout them that are like open spaces for people to fill with images, drawings, or text. Behind the landscape  we added a still checkerboard PNG with black or white spots depending on the theme of the page. The background peeks through the transparent areas as the user explores the landscape and gives the page a little more movement and texture instead of feeling flat.
+
+<br>
+<u>My Contribution</u>
+I worked on the front-end of our website including finding and editing images, creating the canvas background for the Heaven and Hell pages, and css/html. I used Pixabay to source my images and Photoshop for editing. 
+
+<br>
+<a href = "">Scott</a>
+<a href = "">Daniel</a>
+<a href = "">Werner</a>
