@@ -8,11 +8,13 @@ tags: [""]
 <br>
 
 <u>Introduction</u>
+<br>
 <strong>Utopia </strong> is a collaborative and interactive website made up of three pages: a home intro page, a Heaven page, and a Hell page. Visitors can drag and drop images and fridge magnet style words onto a shared canvas to build their own vision of either a perfect world or a terrible one. The two pages each has its own themed landscape with empty spaces that people fill in with drawings, text, or visual compositions. What is placed cannot be deleted (unless you know the secret word). Audio can be toggled for a more immersive experience while you patch together your artwork. The site updates live and multiple users can create together in real time. Utopia is a constantly changing collective artwork website shaped by everyone’s ideas of utopia and its darker counterpart. 
 
 <br>
 
 <u>Our Inspiration</u>
+<br>
 For inspiration, we looked at projects like <a href ="https://tilde.town/~kc/blackout/">Blackout </a> and <a href ="https://www.reddit.com/r/place/">r/place</a>. Blackout inspired the text part of our project because users can reveal or hide words to create new meanings and poems. It gave us the idea for the fridge magnet style drag-and-drop text where people can move words around freely on the canvas. We also took inspiration from r/place because of its collaborative and constantly changing nature(Until it ended). We liked the idea of a shared space where many people can contribute at once and shape the environment together over time.
 <br>
 Originally we were going for more of a pixel art aesthetic as shown in our figma moodboard. Later on, we started adding more variety, like the hand drawn artwork made by Scott, which made the project feel more alive. The final look became a mix of pixel art, digital drawings and collage-like images. 
@@ -21,6 +23,7 @@ When we looked for references and images online we mostly used words connected t
 
 <br>
 <u>Figma and Video Demo </u>
+<br>
 
 <a href ="https://www.figma.com/design/RylgUb43PS4ibS0j85oNb8/Project3?node-id=13-5&t=J5xZyB9sMzDYkIiV-1">Figma</a>
 <br>
@@ -29,6 +32,7 @@ When we looked for references and images online we mostly used words connected t
 <br>
 
 <u>Technical Process</u>
+<br>
 We first started by building rough layouts for each page using Nunjucks and CSS. Early on in the project we focused a lot on structure and figuring out how users would actually interact with the project. We were also gathering a database of images and words that people could interact with. 
 <br>
 One thing we were conflicted over was how the words were going to be presented on the canvas. At first we thought about scattering all the words directly across the canvas so people would have to search all over the canvas for the right word. An alternative was to place the words in a side panel that users could pull from. We evntually went with the side panel and added some randomness into it. A limit was added to how many words appear at once along with a refresh button that generates a new set of random words. It forces people to work with limited language and search for combinations they normally would not think of.
