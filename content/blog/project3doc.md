@@ -50,6 +50,7 @@ One last thing we changed was the background of the canvas itself. At first the 
 
 <br>
 <u>My Contribution</u>
+<br>
 I worked on the front-end of our website including finding and editing images, creating the canvas background for the Heaven and Hell pages, and css/html. I used Pixabay to source my images and Photoshop for editing. 
 
 <br>
